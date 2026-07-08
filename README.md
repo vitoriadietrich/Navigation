@@ -2,22 +2,22 @@
 
 Um projeto simples de **barra de navegação lateral (side nav)** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar uma **side navigation bar moderna e responsiva**, ideal para dashboards e sites.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Menu lateral fixo
 - Layout organizado
 - Design simples e responsivo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador 
